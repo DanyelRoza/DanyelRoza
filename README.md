@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanyelRoza
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Data Science, Pandas, Python, Julia
-- 💞️ I’m looking to collaborate on Python Reserarch
+- 💞️ I’m looking to collaborate on Python Research
 - 📫 How to reach me --> danielrosa@msn.com
 
 <!---
